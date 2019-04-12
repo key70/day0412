@@ -1,0 +1,8 @@
+주피터노트북 파일(ipynb)    ====> .py 로 바꾸기
+
+$ jupyter nbconvert --to script test2.ipynb
+$ jupyter nbconvert --to script *.ipynb
+
+
+ctrl + 엔터       ==> 실행
+shitf + 엔터      ==> 실행하고 다음셀
